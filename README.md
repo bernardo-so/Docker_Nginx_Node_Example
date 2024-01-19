@@ -17,7 +17,7 @@ Para executar este projeto, você precisará ter o Docker e o Docker Compose ins
 ## Como Executar
 
 1. **Clonar o Repositório:**
-- `git clone https://github.com/bernardo-so/docker-full-cycle.git`
+- `git clone https://github.com/bernardo-so/Docker_Nginx_Node_Example.git`
 
 2. **Iniciar os Serviços com Docker Compose:**
 - `docker-compose up -d` - Após executar este comando, os serviços do Nginx, Node.js e MySQL serão iniciados.
